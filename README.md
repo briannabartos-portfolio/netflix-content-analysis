@@ -5,7 +5,7 @@
 This project explores Netflix's content catalog to understand how it has changed over time and what patterns can be found across movies, TV shows, genres, countries, ratings, and release years.
 
 I used SQL in BigQuery to clean and analyze the data, then used Tableau to visualize the results and build an interactive dashboard.
-##
+
 ## Business Question
 
 How has Netflix's content catalog evolved, and what insights can we find about its movies and TV shows?
@@ -20,6 +20,8 @@ How has Netflix's content catalog evolved, and what insights can we find about i
 The dataset contains information about Netflix movies and TV shows, including title, content type, country, date added, release year, rating, duration, genre, director, and cast.
 
 During my data quality checks, I found two malformed records. I kept the original data unchanged and excluded invalid records from the analysis when needed.
+
+
 ## Tools Used
 
 - **BigQuery (SQL):** Data cleaning, quality checks, and analysis
@@ -38,6 +40,14 @@ Some of the steps included:
 - Splitting fields containing multiple countries, genres, directors, and cast members
 - Removing extra spaces from split values
 - Converting movie duration into a numeric value for calculations
+
+
+## Tableau Dashboard
+
+![Netflix Content Analysis Dashboard](netflix_dashboard.png)
+
+*Interactive Tableau dashboard link coming soon.*
+
 
 ## Analysis & Key Findings
 
