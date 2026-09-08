@@ -129,3 +129,9 @@ Anupam Kher appears in the most titles with 42, followed by Shah Rukh Khan with 
 
 **Finding:**  
 This supports what we saw in the release year data. Most of the catalog is made up of newer content, with 6,609 titles released in the 2010s compared to only 728 in the 2000s.
+
+## Overall Conclusion
+
+Overall, the data shows that Netflix's catalog is mostly made up of movies and newer content. Movies account for about 69% of the titles analyzed, and most titles were released during the 2010s. Netflix also added more content leading up to 2019, which had the highest number of additions in the dataset.
+
+The catalog includes content from many countries and genres, but the United States has the most representation, while International Movies and Dramas are the most common genres. Overall, the catalog grew heavily during the late 2010s and became a large, internationally represented collection that leans more toward movies and newer releases.
