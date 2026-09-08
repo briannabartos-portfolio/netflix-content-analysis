@@ -12,7 +12,7 @@ How has Netflix's content catalog evolved, and what insights can we find about i
 
 ## Dataset
 
-**Source:** Kaggle - Netflix Movies and TV Shows dataset
+**Source:** [Netflix Movies and TV Shows - Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 
 **Original records:** 7,787  
 **Records used for analysis:** 7,785
@@ -46,7 +46,7 @@ Some of the steps included:
 
 ![Netflix Content Analysis Dashboard](netflix_dashboard.png)
 
-*Interactive Tableau dashboard link coming soon.*
+[View the interactive Tableau dashboard](https://10ay.online.tableau.com/#/site/briannambartos-915c67f349/views/NetflixContentAnalysis/Dashboard1?:iid=1)
 
 
 ## Analysis & Key Findings
